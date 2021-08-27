@@ -1,4 +1,4 @@
-### Lê Đặng Trung Hiếu
+### Lê Đặng Trung Hiếu (Mr)
 #### Supervisor | ABS, Viet Capital Securities Joint Stock Company (VCSC)
 - :zap: I love math, stock market, marketing and data science.
 - 🌱 I’m addicted to learning and growing every day
