@@ -14,4 +14,4 @@
   - 🌿 Tham gia các project Data Science & Machine Learning trong lĩnh vực marketing & financial
   - 🌿 Môi giới chứng khoán tại Viet Capital Securities (HoSE:VCI) từ 2013
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cafechungkhoan&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cafechungkhoan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
