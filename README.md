@@ -7,7 +7,7 @@
   - :bulb: [Website Articles](http://cafechungkhoan.com/)
   - 🍀 [Bài viết trên Investing.com](https://vn.investing.com/members/contributors/203314015/opinion)
   - :office: [LinkedIn Profile](https://www.linkedin.com/in/hi%E1%BA%BFu-l%C3%AA-%C4%91%E1%BA%B7ng-trung-b968014b/)
-  - ✈️[Facebook Profile](https://www.facebook.com/ledangtrunghieu)
+  - ✈️ [Facebook Profile](https://www.facebook.com/ledangtrunghieu)
 - 📫 Một số kinh nghiệm làm việc: 
   - 🌿 Làm việc về Search Engine Optimization (SEO) tại báo Vietstock từ 2010
   - 🌿 Thiết lập các chiến lược chuyên sâu về Digital Ads (facebook, google) từ 2013
