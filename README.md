@@ -5,6 +5,7 @@
 - :earth_africa: Tôi cũng đam mê viết và chia sẻ những gì mình biết tại website cá nhân.
 - 📫 Liên lạc với tôi: 
   - :bulb: [Website Articles](http://cafechungkhoan.com/)
+  - 🍀 [Bài viết trên Investing.com](https://vn.investing.com/members/contributors/203314015/opinion)
   - :office: [LinkedIn Profile](https://www.linkedin.com/in/hi%E1%BA%BFu-l%C3%AA-%C4%91%E1%BA%B7ng-trung-b968014b/)
   - ✈️[Facebook Profile](https://www.facebook.com/ledangtrunghieu)
 - 📫 Một số kinh nghiệm làm việc: 
