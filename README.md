@@ -13,3 +13,5 @@
   - 🌿 Thiết lập các chiến lược chuyên sâu về Digital Ads (facebook, google) từ 2013
   - 🌿 Tham gia các project Data Science & Machine Learning trong lĩnh vực marketing & financial
   - 🌿 Môi giới chứng khoán tại Viet Capital Securities (HoSE:VCI) từ 2013
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cafechungkhoan&show_icons=true&theme=radical)
