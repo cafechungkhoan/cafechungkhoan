@@ -1,12 +1,14 @@
 ### Lê Đặng Trung Hiếu (Mr)
 #### Supervisor | ABS, Viet Capital Securities Joint Stock Company (VCSC)
-- :zap: I love math, stock market, marketing and data science.
-- 🌱 I’m addicted to learning and growing every day
-- :earth_africa: I am currently sharing a little bit of my knowledge to the world through my website
-- 📫 How to find me: 
+- :zap: Tôi yêu toán, marketing, chứng khoán và Machine Learning
+- 🌱 Tôi đam mê học hỏi và phát triển mỗi ngày
+- :earth_africa: Tôi cũng đam mê viết và chia sẻ những gì mình biết tại website cá nhân.
+- 📫 Liên lạc với tôi: 
   - :bulb: [Website Articles](http://cafechungkhoan.com/)
   - :office: [LinkedIn Profile](https://www.linkedin.com/in/hi%E1%BA%BFu-l%C3%AA-%C4%91%E1%BA%B7ng-trung-b968014b/)
-- 📫 My top skill: 
-  - :atom: Search Engine Optimization (SEO)
-  - :atom: Digital Ads Manager, Digital Strategies
-  - :atom: Data Science & Machine Learning
+  - ✈️[Facebook Profile](https://www.facebook.com/ledangtrunghieu)
+- 📫 Một số kinh nghiệm làm việc: 
+  - 🌿 Làm việc về Search Engine Optimization (SEO) tại báo Vietstock từ 2010
+  - 🌿 Thiết lập các chiến lược chuyên sâu về Digital Ads (facebook, google) từ 2013
+  - 🌿 Tham gia các project Data Science & Machine Learning trong lĩnh vực marketing & financial
+  - 🌿 Môi giới chứng khoán tại Viet Capital Securities (HoSE:VCI) từ 2013
