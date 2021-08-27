@@ -1,6 +1,6 @@
 ### Lê Đặng Trung Hiếu (Mr)
 #### Supervisor | ABS, Viet Capital Securities Joint Stock Company (VCSC)
-- :zap: Tôi yêu toán, marketing, chứng khoán và Machine Learning
+- :zap: Tôi yêu toán, marketing, chứng khoán và lập trình
 - 🌱 Tôi đam mê học hỏi và phát triển mỗi ngày
 - :earth_africa: Tôi cũng đam mê viết và chia sẻ những gì mình biết tại website cá nhân.
 - 📫 Liên lạc với tôi: 
