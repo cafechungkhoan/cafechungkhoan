@@ -9,4 +9,4 @@
 - 📫 My top skill: 
   - :atom: Search Engine Optimization (SEO)
   - :atom: Digital Ads Manager, Digital Strategies
-  - :atom: Python (Programming Language) for Data Science & Machine Learning
+  - :atom: Data Science & Machine Learning
