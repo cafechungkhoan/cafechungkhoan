@@ -13,5 +13,3 @@
   - 🌿 Thiết lập các chiến lược chuyên sâu về Digital Ads (facebook, google) từ 2013
   - 🌿 Tham gia các project Data Science & Machine Learning trong lĩnh vực marketing & financial
   - 🌿 Môi giới chứng khoán tại Viet Capital Securities (HoSE:VCI) từ 2013
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cafechungkhoan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
