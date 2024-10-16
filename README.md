@@ -1,5 +1,6 @@
 ### Lê Đặng Trung Hiếu (Mr)
-#### Supervisor, Vietcap Securities Joint Stock Company (Vietcap)
+#### Data-Driven Marketing, 朝日生命保険相互会社 Asahi Mutual Life Insurance Company
+
 - :zap: Tôi yêu toán, marketing, chứng khoán và lập trình
 - 🌱 Tôi đam mê học hỏi và phát triển mỗi ngày
 - :earth_africa: Tôi cũng đam mê viết và chia sẻ những gì mình biết tại website cá nhân.
@@ -12,4 +13,4 @@
   - 🌿 Làm việc về Search Engine Optimization (SEO) tại báo Vietstock từ 2010
   - 🌿 Thiết lập các chiến lược chuyên sâu về Digital Ads (facebook, google) từ 2013
   - 🌿 Tham gia các project Data Science & Machine Learning trong lĩnh vực marketing & financial
-  - 🌿 Môi giới chứng khoán tại Viet Capital Securities (HoSE:VCI) từ 2013
+  - 🌿 Manager tại Viet Capital Securities (HoSE:VCI) từ 2013
