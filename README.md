@@ -1,16 +1,16 @@
 ### Lê Đặng Trung Hiếu (Mr)
-#### Data-Driven Marketing, 朝日生命保険相互会社 Asahi Mutual Life Insurance Company
+#### Data-Driven Marketing, Asahi Life Vietnam - Subsidiary of 朝日生命保険相互会社 Asahi Mutual Life Insurance Company
 
-- :zap: Tôi yêu toán, marketing, chứng khoán và lập trình
-- 🌱 Tôi đam mê học hỏi và phát triển mỗi ngày
-- :earth_africa: Tôi cũng đam mê viết và chia sẻ những gì mình biết tại website cá nhân.
-- 📫 Liên lạc với tôi: 
-  - 🌿 [Website Articles](http://cafechungkhoan.com/)
-  - 🌿 [Bài viết trên Investing.com](https://vn.investing.com/members/contributors/203314015/opinion)
-  - 🌿 [LinkedIn Profile](https://www.linkedin.com/in/hi%E1%BA%BFu-l%C3%AA-%C4%91%E1%BA%B7ng-trung-b968014b/)
-  - 🌿 [Facebook Profile](https://www.facebook.com/ledangtrunghieu)
-- 📫 Một số kinh nghiệm làm việc: 
-  - 🌿 Làm việc về Search Engine Optimization (SEO) tại báo Vietstock từ 2010
-  - 🌿 Thiết lập các chiến lược chuyên sâu về Digital Ads (facebook, google) từ 2013
-  - 🌿 Tham gia các project Data Science & Machine Learning trong lĩnh vực marketing & financial
-  - 🌿 Manager tại Viet Capital Securities (HoSE:VCI) từ 2013
+:zap: I'm passionate about the intersection of mathematics, marketing, finance, and programming.
+🌱 Driven by a desire for continuous learning and growth, I'm always seeking new challenges.
+:earth_africa: I also enjoy sharing my insights and knowledge through writing on my personal website.
+📫 Connect with me:
+  🌿 [Website Articles](http://cafechungkhoan.com/)
+  🌿 [Investing.com Articles](https://vn.investing.com/members/contributors/203314015/opinion)
+  🌿 [LinkedIn Profile](https://www.linkedin.com/in/hi%E1%BA%BFu-l%C3%AA-%C4%91%E1%BA%B7ng-trung-b968014b/)
+  🌿 [Facebook Profile](https://www.facebook.com/ledangtrunghieu)
+📫 Professional Experience:
+  🌿 Search Engine Optimization (SEO) at Vietstock (2010)
+  🌿 Digital Marketing & Advertising (Facebook, Google) since 2013
+  🌿 Data Science & Machine Learning projects in marketing & finance since 2019
+  🌿 Manager at Viet Capital Securities (HoSE:VCI) since 2023
