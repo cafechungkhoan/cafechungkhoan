@@ -1,91 +1,171 @@
-<!-- =========================
-     LÊ ĐẶNG TRUNG HIẾU — PROFILE (MD)
-     “AI-driven marketing + analytics + web tooling”
-========================== -->
+<!-- ═══════════════════════════════════════════════════════════════
+     LÊ ĐẶNG TRUNG HIẾU · PROFESSIONAL PROFILE
+     Inspired by Asahi Life Philosophy: まごころの奉仕
+═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# Lê Đặng Trung Hiếu (Mr.)
-### AI-Driven Marketing · Growth Analytics · Web Tooling  
-**Asahi Life Vietnam** — Subsidiary of **Asahi Mutual Life Insurance Company (朝日生命保険相互会社)**
+# Lê Đặng Trung Hiếu
+**レ・ダン・チュン・ヒエウ**
 
-I build **measurable growth systems** where **paid media + data + automation + lightweight web tools** work together — so performance is not “a feeling”, it’s a dashboard.
+━━━━━━━━━━━━━━━━━━━━
+
+**AI-Driven Marketing · Growth Analytics · Web Tooling**
+
+Asahi Life Consulting Vietnam (ALCV)  
+*Part of* **Asahi Mutual Life Insurance Company** 朝日生命保険相互会社
 
 </div>
 
 ---
 
-## 🧠 What I do (in one sentence)
-I turn lead-generation operations into a **data-driven, automated, AI-assisted engine** — from ads optimization → tracking → reporting → stakeholder visibility.
+<div align="center">
+
+### まごころ ─ Sincere Heart
+
+> *Supporting growth with sincerity — building systems that serve people, not just metrics.*
+
+Inspired by Asahi Life's mission:  
+**「一人ひとりの"生きる"を支え続ける」**  
+*Supporting each person's life continuously*
+
+</div>
 
 ---
 
-## 🚀 Current focus (AI-Driven Marketing)
-- **Performance Marketing**: Google Ads / Meta Ads · CPL/CPA optimization · funnel performance management  
-- **Growth Analytics**: KPI frameworks · cohort/funnel analysis · weekly/monthly executive reporting  
-- **AI-in-Workflow**: prompt patterns for ops, analysis, reporting, content QA · decision support from structured outputs  
-- **Automation**: Google Sheets / Apps Script / Make.com (workflow & data sync) · alerting & monitoring  
-- **Stakeholder-ready output**: dashboards, one-pagers, clean narratives for cross-functional alignment
+## Mission 使命
+
+I transform lead-generation operations into **data-driven, automated, AI-assisted engines** — enabling the team to focus on what matters: **serving customers with sincerity**.
+
+| Value | 価値 | How I Apply It |
+|:---:|:---:|:---|
+| 📊 **Accountability** | 責任 | Every decision backed by measurable data |
+| ⚡ **Efficiency** | 効率 | Automation frees time for human connection |
+| 🎯 **Transparency** | 透明 | Dashboards that build trust across teams |
+| ❤️ **Sincerity** | 真心 | Systems designed to support, not replace, people |
 
 ---
 
-## 🛠️ Web Development & Tool Building
-I build lightweight tools that improve execution speed, data clarity, and decision quality:
-- **Internal tools**: trackers, monitoring dashboards, calculators, checklists, playbooks
-- **Web tooling**: landing/corp microsites, interactive components, data-driven UI
-- **Integration mindset**: connect ads data → sheets → dashboards → notifications → reporting
+## Expertise 専門分野
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Performance Marketing
+- Google Ads / Meta Ads optimization
+- CPL/CPA efficiency & funnel analysis
+- Experimentation with accountability
+
+### 📈 Growth Analytics
+- KPI frameworks & cohort analysis
+- Executive reporting with clarity
+- Data storytelling for alignment
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI-in-Workflow
+- Prompt engineering for operations
+- Structured outputs for decisions
+- Multi-model workflow support
+
+### ⚡ Process Automation
+- Google Sheets + Apps Script
+- Make.com workflow integration
+- Alerting & monitoring systems
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📌 Signature strengths
-- **Numbers-first marketing**: ROI logic, experimentation, and accountability
-- **Systems thinking**: reduce manual workload, increase transparency, stabilize operations
-- **Execution + visibility**: results that can be defended in meetings and shown in dashboards
-- **Continuous improvement (Kaizen)**: iterate fast, measure impact, standardize wins
+## Development 開発
+
+Building tools that serve people and improve decision quality:
+
+| Category | Purpose | Deliverables |
+|:---:|:---:|:---|
+| 🏢 **Internal Tools** | Support team efficiency | Lead trackers, dashboards, calculators |
+| 🌐 **Web Assets** | Serve customers better | Landing pages, microsites, interactive UI |
+| 🔗 **Integration** | Connect information flow | Ads → Sheets → Dashboards → Reports |
 
 ---
 
-## 🧰 Tech & Tools (practical stack)
-**Marketing / Analytics**
-- Google Ads · Meta Ads · GA4 · conversion tracking · funnel & KPI dashboards
+## Strengths 強み
 
-**Data / Automation**
-- Google Sheets (advanced modeling) · Apps Script · Make.com · data pipelines to reporting
+<div align="center">
 
-**Web / Product**
-- HTML/CSS/JS · rapid prototyping · interactive UI for internal tools & sites  
-- Deployment mindset (lightweight & maintainable)
+| Strength | 日本語 | Description |
+|:---:|:---:|:---|
+| **Numbers-First** | 数字第一 | ROI logic with experimentation culture |
+| **Systems Thinking** | 系統思考 | Reduce complexity, increase transparency |
+| **Execution** | 実行力 | Deliver results that can be defended |
+| **Kaizen** | 改善 | Continuous improvement, never satisfied |
 
-**AI Tooling**
-- Prompt systems for ops/analysis/reporting · structured outputs · multi-model workflows (when needed)
-
----
-
-## 🧭 Experience timeline
-- **SEO** · Vietstock (2010)  
-- **Digital Marketing & Paid Ads** (Google / Facebook) — since **2013**  
-- **Data Science / Machine Learning** projects (marketing & finance) — since **2019**  
-- **Manager** · Viet Capital Securities (HoSE: VCI) — since **2023**  
+</div>
 
 ---
 
-## ✍️ Writing / Publishing
-- 🌿 Website Articles: http://cafechungkhoan.com/  
-- 🌿 Investing.com Articles: https://vn.investing.com/members/contributors/203314015/opinion  
+## Technical Stack 技術
+
+<div align="center">
+
+**Marketing & Analytics**  
+`Google Ads` · `Meta Ads` · `GA4` · `Conversion Tracking`
+
+**Data & Automation**  
+`Google Sheets` · `Apps Script` · `Make.com` · `Data Pipelines`
+
+**Web Development**  
+`HTML/CSS/JS` · `Rapid Prototyping` · `Interactive UI`
+
+**AI Tooling**  
+`Prompt Systems` · `Structured Outputs` · `Multi-Model Workflows`
+
+</div>
 
 ---
 
-## 📫 Connect
-- 🌿 LinkedIn: https://www.linkedin.com/in/hi%E1%BA%BFu-l%C3%AA-%C4%91%E1%BA%B7ng-trung-b968014b/  
-- 🌿 Facebook: https://www.facebook.com/ledangtrunghieu  
+## Career 経歴
+
+| Year | Role | Organization |
+|:---:|:---|:---|
+| 2010 | SEO Specialist | Vietstock |
+| 2013+ | Digital Marketing & Paid Ads | Google / Meta ecosystem |
+| 2019+ | Data Science / ML Projects | Marketing & Finance |
+| 2023+ | Manager | Viet Capital Securities (VCI) |
+| **現在** | AI-Driven Marketing | **Asahi Life Consulting Vietnam** |
+
+---
+
+## Publications 執筆
+
+| Platform | Link |
+|:---:|:---|
+| 📝 Personal | [cafechungkhoan.com](http://cafechungkhoan.com/) |
+| 📰 Investing.com | [Contributor Profile](https://vn.investing.com/members/contributors/203314015/opinion) |
+
+---
+
+## Connect 連絡
+
+<div align="center">
+
+[🔗 LinkedIn](https://www.linkedin.com/in/hi%E1%BA%BFu-l%C3%AA-%C4%91%E1%BA%B7ng-trung-b968014b/) · [📘 Facebook](https://www.facebook.com/ledangtrunghieu)
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⚡ Personal operating principle
-**Build systems. Measure truth. Automate repetition. Communicate outcomes.**
+### 精進 ─ Continuous Improvement
+
+**Build systems that support people.**  
+**Measure with honesty. Improve with sincerity.**
+
+まごころの奉仕 — *Service with a sincere heart*
 
 </div>
-
-  
