@@ -10,6 +10,9 @@
 # Lê Đặng Trung Hiếu
 **レ・ダン・チュン・ヒエウ**
 
+![CX50](https://img.shields.io/badge/CX50-Customer_Experience-DAA520?style=for-the-badge&logo=checkmarx&logoColor=white)
+![ALMI](https://img.shields.io/badge/ALMI-Associate_Life_Management_Institute-DAA520?style=for-the-badge&logo=checkmarx&logoColor=white)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hi%E1%BA%BFu-l%C3%AA-%C4%91%E1%BA%B7ng-trung-b968014b/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ledangtrunghieu)
 [![Blog](https://img.shields.io/badge/Blog-cafechungkhoan.com-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](http://cafechungkhoan.com/)
@@ -142,6 +145,22 @@ I transform lead-generation operations into **data-driven, automated, AI-assiste
 </details>
 
 <details>
+<summary><h3>🎨 Design & Creative</h3></summary>
+<div align="center">
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+</div>
+</details>
+
+<details>
 <summary><h3>🤖 AI & Intelligent Workflows</h3></summary>
 <div align="center">
 
@@ -223,16 +242,75 @@ I transform lead-generation operations into **data-driven, automated, AI-assiste
 
 ## 🏢 Featured Projects | プロジェクト
 
+<details open>
+<summary><h3>📦 GitHub Repositories</h3></summary>
+
 | | Project | Description | Tech |
 |:---:|:--------|:------------|:-----|
-| 🔄 | **Round-Robin Lead System** | Automated lead distribution with cooldown, spam filtering & multi-channel support | `Apps Script` `Webhooks` `CRM` |
-| 📊 | **Quality Score Simulator** | Bulk Google Ads performance prediction & optimization tool | `JavaScript` `HTML/CSS` `Ads API` |
-| 🔔 | **Lead Notifier Engine** | Real-time lead alerts from FB Ads & Google SEM with smart filtering | `Apps Script` `Email API` |
-| 🌐 | **Sale Landing Page** | SEO-optimized, security-hardened landing page with Cloudflare & reCAPTCHA | `HTML/CSS/JS` `Cloudflare` |
-| 🛡️ | **Security Audit Framework** | Comprehensive web security analysis with bilingual (VN/JP) reporting | `Python` `OWASP` |
-| 📱 | **Apps Script Manager** | Centralized dashboard to monitor & control all Apps Scripts | `Node.js` `REST API` |
+| 🔄 | [**ALCV_Automation**](https://github.com/cafechungkhoan/ALCV_Automation) | Round-robin lead distribution with cooldown, spam filtering & multi-channel | `Apps Script` `Webhooks` `CRM` |
+| 📈 | [**chu_gia**](https://github.com/cafechungkhoan/chu_gia) | Data Science & ML projects for stock price analysis ⭐10 | `Python` `Pandas` `Scikit-Learn` |
+| 🧠 | [**deeplearning-predict-stock**](https://github.com/cafechungkhoan/deeplearning-predict-stock) | Deep learning model for stock price prediction | `Python` `TensorFlow` |
+| 📚 | [**financial-machine-learning**](https://github.com/cafechungkhoan/financial-machine-learning) | Curated financial ML tools & applications ⭐2 | `Python` `ML` `Finance` |
+| 🌐 | [**hieu.github.io**](https://github.com/cafechungkhoan/hieu.github.io) | Personal booking & demo scheduling page | `HTML/CSS/JS` `GitHub Pages` |
+| 💹 | [**finance-stock**](https://github.com/cafechungkhoan/finance-stock) | Finance & stock market analysis projects | `Python` `Finance` |
 
-<br>
+</details>
+
+<details open>
+<summary><h3>🌐 Web Applications</h3></summary>
+
+| | Project | Description | Tech |
+|:---:|:--------|:------------|:-----|
+| 🤖 | **PES AI Powered** | AI-powered Performance Evaluation System (v3.4 → v3.7) | `HTML/CSS/JS` `AI` |
+| 📊 | **Marketing Analysis Dashboard** | Real-time marketing KPI tracking & visualization | `HTML/CSS/JS` `Charts` |
+| 🔍 | **Integration Growth Radar** | Growth tracking & integration monitoring tool | `HTML/CSS/JS` `Analytics` |
+| 🎯 | **AI Search Vietnam 2025** | AI-powered search analysis dashboard | `HTML/CSS/JS` `AI` |
+| 💰 | **Insurance Premium Calculators** | APUV/NPUV premium calculation tools (Enterprise edition) | `HTML/CSS/JS` `Finance` |
+| 📈 | **Life Portfolio Simulator** | Financial portfolio & life insurance simulation tool | `HTML/CSS/JS` `Finance` |
+| 💼 | **Financial Advisor Tool** | Interactive financial consulting interface | `HTML/CSS/JS` `Finance` |
+| 🎮 | **Quiz App** | Interactive quiz platform with backend scoring | `HTML/CSS/JS` `Apps Script` |
+| 🎰 | **Countdown Lucky Wheel** | Gamified engagement tool with countdown timer | `HTML/CSS/JS` |
+
+</details>
+
+<details>
+<summary><h3>⚡ Apps Script Automation</h3></summary>
+
+| | Project | Description | Tech |
+|:---:|:--------|:------------|:-----|
+| 🔄 | **Round Robin System** | Multi-channel lead distribution (Zalo, FB, Google) | `Apps Script` `Webhooks` |
+| 🔔 | **Lead Notifier (FB Ads)** | Real-time FB Ads lead alerts with smart filtering | `Apps Script` `Email API` |
+| 🔔 | **Lead Notifier (Google SEM)** | Real-time Google SEM lead alerts | `Apps Script` `Email API` |
+| 📡 | **Meta Webhook Handler** | Facebook lead webhook receiver & processor | `Apps Script` `Meta API` |
+| 📋 | **Daily Report Anomalies** | Automated anomaly detection in daily reports | `Apps Script` `Analytics` |
+| 📝 | **CV Notify Recruit** | Automated recruitment CV notification system | `Apps Script` `Email API` |
+| 🔧 | **Trigger Manager** | Centralized Apps Script trigger management | `Apps Script` |
+
+</details>
+
+<details>
+<summary><h3>🏗️ Full-Stack Projects</h3></summary>
+
+| | Project | Description | Tech |
+|:---:|:--------|:------------|:-----|
+| 📅 | **Booking System** | Full-stack appointment booking (frontend + backend) | `Node.js` `HTML/CSS/JS` |
+| 🗂️ | **Mini CRM** | Lightweight CRM with Google Sheets backend | `Apps Script` `HTML/CSS/JS` |
+| 📖 | **Knowledge Hub** | Internal knowledge management platform | `HTML/CSS/JS` `Docs` |
+| 🎯 | **Influence Funnel Vault** | Lead funnel tracking & management system | `HTML/CSS/JS` `Analytics` |
+| 🖥️ | **Apps Script Manager** | Dashboard to monitor & control all scripts | `Node.js` `REST API` |
+
+</details>
+
+<details>
+<summary><h3>🐍 Data Science</h3></summary>
+
+| | Project | Description | Tech |
+|:---:|:--------|:------------|:-----|
+| 🔑 | **Efficient Keyword Analysis** | Keyword clustering & optimization for paid ads | `Python` `Jupyter` `Pandas` |
+| 📊 | **LYD Report** | Automated report aggregation system | `Python` `Data Pipeline` |
+| 🐍 | **Python Data Recipes** | Data processing utilities & cookbook | `Python` `Pandas` `NumPy` |
+
+</details>
 
 ---
 
