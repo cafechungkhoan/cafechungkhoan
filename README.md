@@ -13,7 +13,7 @@
 ![CX50](https://img.shields.io/badge/CX50-Customer_Experience-DAA520?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![ALMI](https://img.shields.io/badge/ALMI-Associate_Life_Management_Institute-DAA520?style=for-the-badge&logo=checkmarx&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hi%E1%BA%BFu-l%C3%AA-%C4%91%E1%BA%B7ng-trung-b968014b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/le-dang-trung-hieu/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ledangtrunghieu)
 [![Blog](https://img.shields.io/badge/Blog-cafechungkhoan.com-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](http://cafechungkhoan.com/)
 [![Investing.com](https://img.shields.io/badge/Investing.com-Contributor-2962FF?style=for-the-badge&logo=investopedia&logoColor=white)](https://vn.investing.com/members/contributors/203314015/opinion)
