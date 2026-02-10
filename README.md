@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E3%81%BE%E3%81%94%E3%81%93%E3%82%8D+%7C+Sincere+Heart;AI-Driven+Marketing+%C2%B7+Growth+Analytics+%C2%B7+Automation" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E3%81%BE%E3%81%94%E3%81%93%E3%82%8D+%7C+Sincere+Heart;AI-Driven+Marketing+%C2%B7+Growth+Analytics" alt="Typing SVG" /></a>
 
 # Lê Đặng Trung Hiếu
 **レ・ダン・チュン・ヒエウ**
